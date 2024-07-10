@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;nextInt&apos; from expression &apos;rand.nextInt(right - left + 1)&apos;&#x0D;&#x0A;- Original project: &apos;DSAProblems&apos;&#x0D;&#x0A;- Variable name: &apos;nextInt&apos;&#x0D;&#x0A;- Destination method: &apos;com.test.arrays.neetcode.QuickSelect.findKthLargest(...)&apos;&#x0D;&#x0A;- Variable expression: &apos;rand.nextInt(right - left + 1)&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;nextInt&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;com.test.arrays.neetcode{QuickSelect.java" name="nextInt" replace="true" selection="501 30" stamp="1698735550402" varType="false" version="1.0"/>
+</session>

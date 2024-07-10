@@ -1,0 +1,9 @@
+1707665654435	Extract local variable 'size'
+1707665663758	Extract local variable 'size2'
+1707665740289	Extract local variable 'hashSet'
+1707665926607	Extract local variable 'arr'
+1707815611773	Extract local variable 'asList'
+1707823923684	Extract local variable 'value'
+1707976370021	Extract local variable 'stream'
+1707976445865	Extract method 'extracted'
+1707988118153	Delete element

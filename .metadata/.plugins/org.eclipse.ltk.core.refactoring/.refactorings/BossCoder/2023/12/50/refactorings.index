@@ -1,0 +1,12 @@
+1702275225958	Extract local variable 'j'
+1702277195913	Extract local variable 'j'
+1702279514616	Extract method 'extracted'
+1702280872089	Extract local variable 'i'
+1702360277344	Extract local variable 'x'
+1702360281820	Extract local variable 'y'
+1702403909664	Extract local variable 'j'
+1702468177725	Delete element
+1702468180380	Delete element
+1702468389996	Delete elements
+1702468818861	Move compilation unit
+1702529907262	Extract local variable 'sqrt'

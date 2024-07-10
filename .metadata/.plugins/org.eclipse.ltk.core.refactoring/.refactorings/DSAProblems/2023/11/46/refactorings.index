@@ -1,0 +1,6 @@
+1699856904745	Extract local variable 'j'
+1699856924054	Extract local variable 'j'
+1699922268271	Extract local variable 'value'
+1699922583432	Extract local variable 'valueOf'
+1699941657298	Extract local variable 'arrayList'
+1700316031675	Delete element

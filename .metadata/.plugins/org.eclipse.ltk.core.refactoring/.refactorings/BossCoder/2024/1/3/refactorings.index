@@ -1,0 +1,4 @@
+1705483705938	Extract local variable 'integer'
+1705483711635	Extract local variable 'integer2'
+1705515330876	Extract local variable 'subList'
+1705515373075	Extract local variable 'min'

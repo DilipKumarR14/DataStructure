@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private static void extracted(int [] nums1, int m, int [] nums2, int n)&apos; from &apos;MergeTwoArray.main(...)&apos; to &apos;MergeTwoArray&apos;&#x0D;&#x0A;- Original project: &apos;DSAProblems&apos;&#x0D;&#x0A;- Method name: &apos;extracted&apos;&#x0D;&#x0A;- Destination type: &apos;MergeTwoArray&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;extracted&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;{MergeTwoArray.java" name="extracted" replace="false" selection="263 267" stamp="1693660876367" version="1.0" visibility="2"/>
+</session>

@@ -1,0 +1,57 @@
+package com.dp;
+
+public class WordBreak {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
+class Solution {
+    private String s;
+    private List<String> wordDict;
+    private int[] memo;
+
+    public boolean wordBreak(String s, List<String> wordDict) {
+        // Initialize member variables
+        this.s = s;
+        this.wordDict = wordDict;
+        // Initialize memo array with -1 indicating uncomputed states
+        this.memo = new int[s.length()];
+        Arrays.fill(this.memo, -1);
+        // Start the dynamic programming from the end of the string
+        return dp(s.length() - 1);
+    }
+
+    private boolean dp(int i) {
+        // Base case: if index is less than 0, we've successfully segmented the string
+        if (i < 0) {
+            return true;
+        }
+
+        // If result for this index is already computed, return the cached result
+        if (memo[i] != -1) {
+            return memo[i] == 1;
+        }
+
+        // Loop through each word in the dictionary
+        for (String word : wordDict) {
+            // Check if the word can fit into the current position
+            if (i - word.length() + 1 < 0) {
+                continue;
+            }
+            // Check if the substring matches the word and the remaining part can be
+            // segmented
+            if (s.substring(i - word.length() + 1, i + 1).equals(word) &&
+                    dp(i - word.length())) {
+                // Update memo array to indicate successful segmentation
+                memo[i] = 1;
+                return true;
+            }
+        }
+        // Update memo array to indicate failed segmentation
+        memo[i] = 0;
+        return false;
+    }
+}

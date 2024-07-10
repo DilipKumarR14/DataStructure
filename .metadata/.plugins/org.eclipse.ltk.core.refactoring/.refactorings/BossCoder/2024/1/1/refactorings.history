@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;string&apos; from expression &apos;strings[i]&apos;&#x0D;&#x0A;- Original project: &apos;BossCoder&apos;&#x0D;&#x0A;- Variable name: &apos;string&apos;&#x0D;&#x0A;- Destination method: &apos;com.array.LongestCommonPrefix.findStr(...)&apos;&#x0D;&#x0A;- Variable expression: &apos;strings[i]&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;string&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;com.array{LongestCommonPrefix.java" name="string" replace="true" selection="564 10" stamp="1704209750554" varType="false" version="1.0"/>
+</session>

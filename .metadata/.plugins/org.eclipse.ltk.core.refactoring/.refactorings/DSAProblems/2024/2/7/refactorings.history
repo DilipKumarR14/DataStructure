@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;arrayList&apos; from expression &apos;new ArrayList&lt;Integer&gt;()&apos;&#x0D;&#x0A;- Original project: &apos;DSAProblems&apos;&#x0D;&#x0A;- Variable name: &apos;arrayList&apos;&#x0D;&#x0A;- Destination method: &apos;com.binary.tree.LeftView.leftView(...)&apos;&#x0D;&#x0A;- Variable expression: &apos;new ArrayList&lt;Integer&gt;()&apos;&#x0D;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;arrayList&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;com.binary.tree{LeftView.java" name="arrayList" replace="true" selection="706 24" stamp="1707713333873" varType="false" version="1.0"/>
+</session>

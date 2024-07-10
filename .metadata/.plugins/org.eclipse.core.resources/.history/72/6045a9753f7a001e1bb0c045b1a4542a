@@ -1,0 +1,10 @@
+package com.test.two.pointer;
+
+public class ParitionArray {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

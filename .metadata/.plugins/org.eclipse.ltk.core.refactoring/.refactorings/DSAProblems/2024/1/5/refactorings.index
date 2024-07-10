@@ -1,0 +1,6 @@
+1706504289313	Extract local variable 'abs'
+1706504618438	Extract local variable 'k'
+1706520437092	Extract local variable 'i'
+1706520442637	Extract local variable 'j'
+1706520837546	Extract local variable 'i'
+1706607786003	Infer generic type arguments

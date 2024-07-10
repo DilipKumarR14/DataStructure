@@ -1,0 +1,25 @@
+package com.dp;
+
+import java.util.Stack;
+
+public class LongestValidParentheses {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+	public int lvp(String par) {
+
+		Stack<String> st = new Stack<>();
+
+		char[] arr = par.toCharArray();
+
+		for (char p : arr) {
+
+		}
+
+		return 0;
+	}
+
+}

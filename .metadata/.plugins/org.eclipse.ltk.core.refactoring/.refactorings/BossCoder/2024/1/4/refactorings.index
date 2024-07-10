@@ -1,0 +1,5 @@
+1705903403783	Extract method 'helper'
+1705907913147	Extract local variable 'empty'
+1706073971863	Extract local variable 'nums'
+1706074991251	Extract local variable 'key'
+1706110981851	Extract local variable 'length'

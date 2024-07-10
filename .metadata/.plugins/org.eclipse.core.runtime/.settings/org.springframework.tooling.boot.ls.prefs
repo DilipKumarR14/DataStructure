@@ -1,0 +1,6 @@
+boot-java.change-detection.on=true
+boot-java.live-information.fetch-data.max-retries=3
+boot-java.live-information.fetch-data.retry-delay-in-seconds=2
+eclipse.preferences.version=1
+rewrite.reconcile-prompt=false
+start.boot-ls.early=false

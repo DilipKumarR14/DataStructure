@@ -1,0 +1,12 @@
+1701614145202	Extract local variable 'j'
+1701614150779	Extract local variable 'j2'
+1701615889524	Extract local variable 'j'
+1701615895998	Extract local variable 'j2'
+1701681312968	Extract local variable 'j'
+1701681322258	Extract local variable 'peek'
+1701754387961	Extract local variable 'currentTemp'
+1701794424595	Infer generic type arguments
+1701794569629	Infer generic type arguments
+1701941080423	Extract local variable 'min2'
+1701942425418	Extract local variable 'j'
+1701942434580	Extract local variable 'j2'

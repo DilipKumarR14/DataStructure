@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private void extracted(HashMap&lt;Integer,ArrayList&lt;int []&gt;&gt; adj)&apos; from &apos;com.graph.Solution.findCheapestPrice(...)&apos; to &apos;com.graph.Solution&apos;&#x0D;&#x0A;- Original project: &apos;BossCoder&apos;&#x0D;&#x0A;- Method name: &apos;extracted&apos;&#x0D;&#x0A;- Destination type: &apos;com.graph.Solution&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;extracted&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;com.graph{CheapestKFlight.java" name="extracted" replace="false" selection="1147 373" stamp="1713111662208" version="1.0" visibility="2"/>
+</session>

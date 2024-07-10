@@ -1,0 +1,4 @@
+1707202963179	Extract method 'slidingWindows'
+1707213147294	Extract local variable 'nums'
+1707213153870	Extract local variable 'k'
+1707319496804	Extract local variable 'listNode'

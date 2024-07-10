@@ -1,0 +1,12 @@
+1703429166697	Rename package 'com.searching'
+1703526897074	Extract local variable 'j2'
+1703526904421	Extract local variable 'k'
+1703601768156	Extract local variable 'j'
+1703601774007	Extract local variable 'j2'
+1703609334515	Extract local variable 'i'
+1703609341251	Extract local variable 'j'
+1703666631588	Extract method 'shipWithinDays'
+1703870498813	Delete element
+1703870544600	Extract local variable 'substring'
+1703870551260	Extract local variable 'substring2'
+1703870686485	Extract local variable 'charAt'

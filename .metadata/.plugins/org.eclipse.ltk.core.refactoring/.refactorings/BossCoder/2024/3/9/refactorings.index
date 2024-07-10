@@ -1,0 +1,5 @@
+1709317912265	Extract local variable 'key'
+1709365209842	Extract local variable 'substring'
+1709365317338	Extract local variable 'charAt'
+1709366255286	Extract local variable 'length'
+1709366261199	Extract local variable 'size'
